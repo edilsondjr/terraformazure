@@ -1,0 +1,7 @@
+*.ppk
+*.tfplan
+Sensitive
+.terraform
+*.tfstate
+*.backup
+*.exe
